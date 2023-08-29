@@ -1,2 +1,2 @@
-# Table-Layout-4
-This is a Table Layout Created Using HTML Tables And Designed Using Css.. 
+# table-layout-4
+This is a table layout with dark background created using HTML tables and designed using CSS. 
